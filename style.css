@@ -44,3 +44,10 @@ a:hover{
   color:cyan;
   transition: 0.3s all;
 }
+.main-site{
+  text-align: center;
+}
+.image{
+  width: 100%;
+  height: auto;
+}
