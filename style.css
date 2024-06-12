@@ -39,3 +39,8 @@ a:hover{
   padding: 5px;
   cursor: pointer;
 }
+.btn:hover{
+  background-color: deepskyblue;
+  color:cyan;
+  transition: 0.3s all;
+}
